@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Joany Mariño
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Memorial University of Newfoundland
+  url: "https://www.mun.ca/biology/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Theoretical ecologist. My research focuses on the evolution and population ecology of symbiotic interactions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Symbiosis
+- Evolutionary ecology
+- Population dynamics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. Candidate in Biology
+    institution: Memorial University of Newfoundland, Canada
+    year: Present
+  - course: M.Sc. in Ecology
+    institution: Instituto Venezolano de Investigaciones Científicas, Venezuela
+    year: 2016
+  - course: B.Sc. in Biology
+    institution: Universidad de Carabobo, Venezuela
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,15 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=Ogk9TIIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/joanymarino
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/joanymarino
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,15 +60,15 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a theoretical ecologist (\#coder). I build mathematical models and combine analytical methods with numerical simulations to study the mechanisms underlying symbiotic interactions. My research centers on finding out the consequences of trophic symbiosis at the individual- and population-levels.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
