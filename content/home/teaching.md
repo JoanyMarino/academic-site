@@ -1,6 +1,5 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# Teaching section
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -10,7 +9,19 @@ weight = 30  # Order that this section will appear.
 title = "Teaching"
 subtitle = ""
 
-[content]
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"[content]
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
+
++++
+
   I am a [Carpentries](https://carpentries.org/) instructor,
 and I teach [Software Carpentry](https://software-carpentry.org/),
 [Data Carpentry](https://datacarpentry.org/), and
@@ -20,11 +31,3 @@ I also contribute in lesson development for
 
 I am part of [R-Bar](https://daniellequinn.github.io/RBarMUN/),
 a scientific programming study group at Memorial University.
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
