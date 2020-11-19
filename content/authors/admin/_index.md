@@ -19,7 +19,7 @@ bio: Theoretical ecologist. My research focuses on the evolution and population 
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: orcid
-  icon_pack: fas
+  icon_pack: ai
   link: https://orcid.org/0000-0002-4657-3758
 - icon: google-scholar
   icon_pack: ai
