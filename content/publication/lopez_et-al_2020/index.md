@@ -13,5 +13,5 @@ doi = "http://dx.doi.org/10.1590/2358-2936e2020025"
 {{< figure src="A_platycheirus.jpg" >}}
 
 <p style="text-align: center;"> 
-  <i>Alpheus platycheirus<i> from Venezuela  
+  <i>Alpheus platycheirus</i> from Venezuela  
 </p>

@@ -18,9 +18,9 @@ bio: Theoretical ecologist. My research focuses on the evolution and population 
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: orcid
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: https://orcid.org/0000-0002-4657-3758
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=Ogk9TIIAAAAJ&hl=en
@@ -54,12 +54,14 @@ user_groups:
 I am a theoretical ecologist (\#coder). I build mathematical models and combine analytical methods with numerical simulations to study the mechanisms underlying symbiotic interactions. My research centers on finding out the consequences of trophic symbiosis at the individual- and population-levels.
 
 <br/>
-
 <br/>
 
-I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at Memo
+I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at [Memorial University](https://www.mun.ca/biology/).
 
 
 Contact: jmarinocoron[at]mun[dot]ca <br>
-[Department of Biology](https://www.mun.ca/biology/)<br> 232 Elizabeth Ave.<br> Memorial University<br> St. John's NL Canada A1B 3X9
+    Department of Biology<br> 
+    232 Elizabeth Ave.<br> 
+    Memorial University<br> 
+    St. John's NL Canada A1B 3X9
 
