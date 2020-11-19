@@ -1,5 +1,5 @@
 +++
-title = "First record of Alpheus platycheirus Boone, 1927 (Crustacea, Alpheidae) on the northwest coast of Venezuela"
+title = "First record of *Alpheus platycheirus* Boone, 1927 (Crustacea, Alpheidae) on the northwest coast of Venezuela"
 date = 2020-07-01 
 authors = ["Beatriz López-Sánchez", "Jonathan Vera-Caripe", "M. Daniela Mendoza", "Joany Mariño"]
 publication_types = ["2"]
