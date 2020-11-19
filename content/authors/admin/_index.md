@@ -60,8 +60,8 @@ I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](http
 
 
 Contact: jmarinocoron[at]mun[dot]ca <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Department of Biology<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;    232 Elizabeth Ave.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;    Memorial University<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;    St. John's NL Canada A1B 3X9
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Biology<br> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 232 Elizabeth Ave.<br> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Memorial University<br> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; St. John's NL Canada A1B 3X9
 
