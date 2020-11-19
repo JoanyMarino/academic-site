@@ -9,9 +9,6 @@ superuser: true
 role: Ph.D. Candidate
 
 # Organizations/Affiliations
-organizations:
-- name: Memorial University of Newfoundland, 232 Elizabeth Ave. St. John's NL Canada
-  url: "https://www.mun.ca/biology/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Theoretical ecologist. My research focuses on the evolution and population ecology of symbiotic interactions.
@@ -56,4 +53,14 @@ user_groups:
 <br/>
 I am a theoretical ecologist (\#coder). I build mathematical models and combine analytical methods with numerical simulations to study the mechanisms underlying symbiotic interactions. My research centers on finding out the consequences of trophic symbiosis at the individual- and population-levels.
 
+<br/>
+
+<br/>
+
 I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
+
+<br/>
+
+<br/>
+
+Current affiliation: [Department of BIology, Memorial University of Newfoundland](https://www.mun.ca/biology/).
