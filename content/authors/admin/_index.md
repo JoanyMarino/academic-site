@@ -60,7 +60,9 @@ I am a theoretical ecologist (\#coder). I build mathematical models and combine 
 I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
 
 <br/>
-
 <br/>
 
-Current affiliation: [Department of BIology, Memorial University of Newfoundland](https://www.mun.ca/biology/).
+Contact: <br>
+jmarinocoron[at]mun[dot]ca <br>
+[Department of Biology](https://www.mun.ca/biology/)<br> 232 Elizabeth Ave.<br> Memorial University<br> St. John's NL<br> Canada A1B 3X9
+
