@@ -31,5 +31,5 @@ offset = 0
   ### M.Sc. in Ecology, 2016
   Instituto Venezolano de Investigaciones Científicas, Venezuela 
   
- ## B.Sc. in Biology, 2011
+  ### B.Sc. in Biology, 2011
  Universidad de Carabobo, Venezuela
