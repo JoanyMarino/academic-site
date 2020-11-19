@@ -18,12 +18,12 @@ bio: Theoretical ecologist. My research focuses on the evolution and population 
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-4657-3758
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=Ogk9TIIAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4657-3758
 - icon: github
   icon_pack: fab
   link: https://github.com/joanymarino
@@ -60,8 +60,8 @@ I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](http
 
 
 Contact: jmarinocoron[at]mun[dot]ca <br>
-    Department of Biology<br> 
-    232 Elizabeth Ave.<br> 
-    Memorial University<br> 
-    St. John's NL Canada A1B 3X9
+&nbsp;&nbsp;&nbsp;&nbsp; Department of Biology<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;    232 Elizabeth Ave.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;    Memorial University<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;    St. John's NL Canada A1B 3X9
 
