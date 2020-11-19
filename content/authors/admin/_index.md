@@ -57,12 +57,9 @@ I am a theoretical ecologist (\#coder). I build mathematical models and combine 
 
 <br/>
 
-I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs.
+I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at Memo
 
-<br/>
-<br/>
 
-Contact: <br>
-jmarinocoron[at]mun[dot]ca <br>
-[Department of Biology](https://www.mun.ca/biology/)<br> 232 Elizabeth Ave.<br> Memorial University<br> St. John's NL<br> Canada A1B 3X9
+Contact: jmarinocoron[at]mun[dot]ca <br>
+[Department of Biology](https://www.mun.ca/biology/)<br> 232 Elizabeth Ave.<br> Memorial University<br> St. John's NL Canada A1B 3X9
 
