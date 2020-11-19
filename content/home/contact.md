@@ -1,16 +1,15 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: 
 
 # This file represents a page section.
 headless: true
-active = false  # Activate this widget? true/false
 
 # Order that this section appears on the page.
-weight: 70
+weight: 
 
-title: Contact
+title: 
 subtitle:
 
 content:
