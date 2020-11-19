@@ -25,12 +25,11 @@ offset = 0
 
 +++
 
-* Ph.D. Candidate in Biology
-  institution: Memorial University of Newfoundland, Canada
-  year: Present
-* M.Sc. in Ecology
-  institution: Instituto Venezolano de Investigaciones Científicas, Venezuela
-  year: 2016
-* B.Sc. in Biology
-  institution: Universidad de Carabobo, Venezuela
-  year: 2011
+  ### Ph.D. Candidate in Biology, Present
+  Memorial University of Newfoundland, Canada
+  
+  ### M.Sc. in Ecology, 2016
+  Instituto Venezolano de Investigaciones Científicas, Venezuela 
+  
+ ## B.Sc. in Biology, 2011
+ Universidad de Carabobo, Venezuela

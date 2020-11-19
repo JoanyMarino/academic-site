@@ -12,6 +12,7 @@ role: Ph.D. Candidate
 organizations:
 - name: Memorial University of Newfoundland
   url: "https://www.mun.ca/biology/"
+  address: 232 Elizabeth Ave. St. John's NL Canada
 
 # Short bio (displayed in user profile at end of posts)
 bio: Theoretical ecologist. My research focuses on the evolution and population ecology of symbiotic interactions.
