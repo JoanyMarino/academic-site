@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = false, page = false, post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -103,8 +103,8 @@ coordinates = {latitude = "", longitude = ""}
 directions = ""
 
 # Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["", ""]
+# A list of your office hours. To remove, set to an empty list `[]`, to include use ["", ""].
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -150,7 +150,7 @@ address_format = "en-us"
 main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -278,7 +278,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://wowchemy.com/docs/install/
-  netlify_cms = true
+  netlify_cms = false
 
 ############################
 ## Icon Pack Extensions
