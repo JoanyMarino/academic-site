@@ -51,17 +51,13 @@ user_groups:
 <br/>
 
 <br/>
-I am a theoretical ecologist (\#coder). I build mathematical models and combine analytical methods with numerical simulations to study the mechanisms underlying symbiotic interactions. My research centers on finding out the consequences of trophic symbiosis at the individual- and population-levels.
+I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to solve problems in ecology. My research experience is focused on symbiotic interactions, but I have broad interests ranging from population dynamics and epidemiology to medical applications. 
 
-<br/>
-<br/>
+I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at [Memorial University](https://www.mun.ca/biology/). Contact me at:
 
-I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at [Memorial University](https://www.mun.ca/biology/).
+&emsp;&emsp;&emsp;&emsp;Department of Biology<br> 
+&emsp;&emsp;&emsp;&emsp;232 Elizabeth Ave.<br> 
+&emsp;&emsp;&emsp;&emsp;Memorial University<br> 
+&emsp;&emsp;&emsp;&emsp;St. John's NL Canada A1B 3X9
 
-
-Contact: jmarinocoron[at]mun[dot]ca <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Department of Biology<br> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 232 Elizabeth Ave.<br> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Memorial University<br> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; St. John's NL Canada A1B 3X9
-
+&emsp;&emsp;&emsp;&emsp;jmarinocoron[at]mun[dot]ca <br>

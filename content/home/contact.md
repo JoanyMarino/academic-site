@@ -3,8 +3,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: 
 
-# This file represents a page section.
-headless: true
+# This file represents a page section. ***
+headless: false
 
 # Order that this section appears on the page.
 weight: 
