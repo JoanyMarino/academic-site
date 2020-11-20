@@ -51,9 +51,12 @@ user_groups:
 <br/>
 
 <br/>
-I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to solve problems in ecology. My research experience is focused on symbiotic interactions, but I have broad interests ranging from population dynamics and epidemiology to medical applications. 
+I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to solve problems in ecology. My research experience is focused on symbiotic interactions, but I have broad interests ranging from population dynamics and epidemiology to medical applications.  
 
-I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at [Memorial University](https://www.mun.ca/biology/). Contact me at:
+<br/>
+<br/>
+
+I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at [Memorial University](https://www.mun.ca/biology/). Contact me at:  
 
 &emsp;&emsp;&emsp;&emsp;Department of Biology<br> 
 &emsp;&emsp;&emsp;&emsp;232 Elizabeth Ave.<br> 
