@@ -25,7 +25,7 @@ offset = 0
 
 +++
 
-  ### Ph.D. Candidate in Biology, Present
+  ### Ph.D. in Mathematical Biology, 2021
   Memorial University of Newfoundland, Canada
   
   ### M.Sc. in Ecology, 2016

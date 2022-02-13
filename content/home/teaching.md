@@ -31,9 +31,7 @@ and I teach [Software Carpentry](https://software-carpentry.org/),
 [Library Carpentry](https://librarycarpentry.org/) workshops.
 I further help to develop lessons for [Carpentries en Latinoamérica](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html).
 
-As a Teaching Assistant, I led the development of the [quantitative training guide](https://ahurford.github.io/quantitative-training-guide) for the Department of Biology at Memorial University, which aims to introduce students to coding. I also have TAed several courses, including population and evolutionary ecology, evolution and systematics, and ecology. 
-
-I am part of [R-Bar](https://daniellequinn.github.io/RBarMUN/),
+During my Ph.D., I led the development of the [quantitative training guide](https://ahurford.github.io/quant-guide-all-courses) for the [Department of Biology](https://www.mun.ca/biology/) at Memorial University, which aims to introduce students to coding in R. I was also part of [R-Bar](https://daniellequinn.github.io/RBarMUN/),
 a scientific programming study group at Memorial University.
 
 Before starting my Ph.D., I was a full-time lecturer in the Faculty of Health Sciences at the Universidad de Carabobo for a year. 
