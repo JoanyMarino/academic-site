@@ -6,12 +6,12 @@ title: Joany Mariño
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Research fellow
 
 # Organizations/Affiliations
 
 # Short bio (displayed in user profile at end of posts)
-bio: Theoretical ecologist. My research focuses on the evolution and population ecology of symbiotic interactions.
+bio: Computational biologist.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,16 +51,16 @@ user_groups:
 <br/>
 
 <br/>
-I am a theoretical ecologist. I build mathematical models and combine analytical methods with numerical simulations to solve problems in ecology. My research experience is focused on symbiotic interactions, but I have broad interests ranging from population dynamics and epidemiology to medical applications.  
+I am a computational biologist. I enjoy using mathematical methods and statistics to solve problems. My expertise includes applying mathematical modeling, statistics and data analysis in the life sciences.
 
 <br/>
 <br/>
 
-I am a member of the [Hurford](https://amyhurford.weebly.com/) and [Dufour](https://www.faculty.mun.ca/sdufour/index.php) labs at [Memorial University](https://www.mun.ca/biology/). Contact me at:  
+I am a member of the [Quality in the Health Sciences group](https://www.researchgate.net/lab/Carsten-Oliver-Schmidt-Lab) at the Institute of Community Medicine, University Medicine of Greifswald. Contact me at:  
 
-&emsp;&emsp;&emsp;&emsp;Department of Biology<br> 
-&emsp;&emsp;&emsp;&emsp;232 Elizabeth Ave.<br> 
-&emsp;&emsp;&emsp;&emsp;Memorial University<br> 
-&emsp;&emsp;&emsp;&emsp;St. John's NL Canada A1B 3X9
+&emsp;&emsp;&emsp;&emsp;Universitätsmedizin Greifswald<br> 
+&emsp;&emsp;&emsp;&emsp;Institute für Community Medicine<br> 
+&emsp;&emsp;&emsp;&emsp;SHIP-Klinisch-epidemiologische Forschung<br> 
+&emsp;&emsp;&emsp;&emsp;17475 Greifswald, Germany
 
-&emsp;&emsp;&emsp;&emsp;jmarinocoron[at]mun[dot]ca <br>
+&emsp;&emsp;&emsp;&emsp;joany.marino[at]uni-greifswald[dot]de <br>
